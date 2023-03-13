@@ -1,6 +1,6 @@
 ## What Is This?
 
-This is an example repo corresponding to multiple lessons within the LearnHowToProgram.com walkthrough on creating a To Do List application in [Section 4: Many-to-Many Relationships](https://www.learnhowtoprogram.com/c-and-net/many-to-many-relationships).
+This is an example repo corresponding to multiple lessons within the LearnHowToProgram.com walkthrough on creating a To-Do-List application in [Section 4: Many-to-Many Relationships](https://www.learnhowtoprogram.com/c-and-net/many-to-many-relationships).
 
 This project corresponds to the classwork and lessons that describe how to connect an ASP.NET Core MVC project to a MySQL database using [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) with migrations. This project contains a one-to-many relationship between `Item` and `Category`, and a many-to-many relationship between `Item` and `Tag`. There are multiple lessons in this series. The first lesson in the series is [Code First Development and Migrations](https://www.learnhowtoprogram.com/c-and-net-part-time/many-to-many-relationships/code-first-development-and-migrations).
 
